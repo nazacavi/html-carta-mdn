@@ -17,14 +17,14 @@ Contarás con la ayuda del texto en el siguiente archivo [Texto de carta](letter
 
 2. Escribir la carta en dicho archivo.
 
-## Semánticas de bloque/estructurales:
+## Semánticas de bloque/estructurales:
 
 - Estructura el documento completo incluyendo los elementos (doctype), <html>, <head> y <body>.
 - Incluye los elementos correspondientes de marcado en la carta tales como párrafos y títulos, a excepción de los siguientes. Hay un título principal (la línea que comienza por "Re:") y tres títulos secundarios.
 - Las fechas de comienzo de los semestres, las materias y los bailes exóticos deben ser marcados con los correspondientes tipos de lista.
 - Colocar las dos direcciones dentro de elementos <address>. Cada línea de la dirección debe comenzar en una línea nueva, pero no en un párrafo nuevo.
 
-## Semánticas intralínea:
+## Semánticas intralínea:
 
 - Los nombres de remitente y destinatario (también "Tel" e "Email") deben ser marcado con importancia (strong).
 - Deberás usar los elementos apropiados en las cuatro fechas contenidas en el documento para que puedan ser leidas por los motores de lectura automática.
