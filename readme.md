@@ -19,7 +19,7 @@ Contarás con la ayuda del texto en el siguiente archivo [Texto de carta](letter
 
 ## Semánticas de bloque/estructurales:
 
-- Estructura el documento completo incluyendo los elementos (doctype), <html>, <head> y <body>.
+- Estructura el documento completo incluyendo los elementos <html>, <head> y <body>.
 - Incluye los elementos correspondientes de marcado en la carta tales como párrafos y títulos, a excepción de los siguientes. Hay un título principal (la línea que comienza por "Re:") y tres títulos secundarios.
 - Las fechas de comienzo de los semestres, las materias y los bailes exóticos deben ser marcados con los correspondientes tipos de lista.
 - Colocar las dos direcciones dentro de elementos <address>. Cada línea de la dirección debe comenzar en una línea nueva, pero no en un párrafo nuevo.
@@ -38,8 +38,6 @@ Los símbolos de los grados, los mayor que y los símbolos de multiplicar deben 
 
 ## El encabezamiento del documento:
 
-- El juego de caracteres del documento deberá ser utf-8 usando una etiqueta meta adecuada.
-- El autor de la carta debe estar especificado con la etiqueta meta correspondiente.
 - El CSS proporcionado deberá estar incluido dentro de la etiqueta adecuada.
 
 ### Etiquetas necesarias ###
