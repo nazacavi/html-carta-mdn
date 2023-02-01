@@ -27,7 +27,7 @@ Contarás con la ayuda del texto en el siguiente archivo [Texto de carta](letter
 ## Semánticas intralínea:
 
 - Los nombres de remitente y destinatario (también "Tel" e "Email") deben ser marcado con importancia (strong).
-- Deberás usar los elementos apropiados en las cuatro fechas contenidas en el documento para que puedan ser leidas por los motores de lectura automática.
+- Deberás usar los elementos apropiados en las cuatro fechas contenidas en el documento.
 - La primera dirección y la primera fecha en la carta deben ser asignadas a un atributo de clase llamado "sender-column"; el código CSS lo añadirás posteriormente para que quede bien alineado, como debe ser en un formato de carta clásico.
 - Deberás utilizar el elemento apropiado para los cinco acrónimos/abreviaciones contenidos en el texto principal, proporcionándoles las extensiones correspondientes.
 - Marca apropiadamente los seis sub/superíndices.
