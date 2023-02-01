@@ -44,6 +44,6 @@ Los símbolos de los grados, los mayor que y los símbolos de multiplicar deben 
 
 ### Etiquetas necesarias ###
 
-`html` - `head` - `body` - `title` - `meta` - `h1` - `h2` - `p` - `address` - `ul` - `ol` - `li` - `strong` - `em` - `abbr` - `sup` - `sub` - `a` - `blockquote` - `q` - `time` - `style` - `link` - `dd` - `dl` - `dt` - `br` - `hr` - `span` - `div`
+`html` - `head` - `body` - `title` - `meta` - `h1` - `h2` - `p` - `address` - `ul` - `ol` - `li` - `strong` - `em` - `abbr` - `sup` - `sub` - `a` - `q` - `time` - `style` - `dd` - `dl` - `dt` - `br`
 
 [MDN Marking_up_a_letter](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter#resumen_del_proyecto_a_desarrollar)
